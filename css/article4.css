@@ -1,0 +1,60 @@
+.container__article4 {
+    width: 1081px;
+    height: 2864px;
+}
+
+
+.article4__title {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 120%;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+
+.article4__box {
+    width: 1080px;
+    height: 506px;
+    border: 1px solid #000000;
+    margin-bottom: 30px;
+}
+
+
+.article4__img {
+    display: block;
+    margin: 0 auto 30px auto;
+}
+
+
+.article4__img_margin {
+    margin-bottom: 15px;
+}
+
+
+.article4__text {
+    margin-bottom: 30px;
+}
+
+
+.article4__text:last-child {
+    margin-bottom: 0;
+}
+
+
+figcaption {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #5E5E5E;
+    padding: 0 30px;
+    margin-bottom: 15px;
+}
+
+
+span {
+    font-weight: 700;
+    text-transform: uppercase;
+}

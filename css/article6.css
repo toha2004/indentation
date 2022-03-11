@@ -1,0 +1,42 @@
+.article6 {
+    padding-bottom: 60px ;
+}
+
+
+.container__article6 {
+    width: 1140px;
+    height: 376px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    padding: 25px 30px 22px 30px;
+}
+
+
+.article6__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 120%;
+    color: #000000;
+    margin-bottom: 19px;
+}
+
+
+.article6__list {
+    margin-bottom: 29px;
+}
+
+
+.article6__item {
+    margin-bottom: 9px;
+}
+
+
+.article6__item:last-child {
+    margin-bottom: 0;
+}
+
+
+.article6__text {
+    margin-bottom: 0;
+}

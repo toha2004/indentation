@@ -1,0 +1,64 @@
+html {
+    box-sizing: border-box;
+    position: relative;
+}
+
+
+*, *::before,
+*::after {
+    box-sizing: inherit;
+}
+
+
+body {
+    min-width: 320px;
+    min-height: 100vh;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    background-color: #FFFFFFFF;
+    margin: 0;
+}
+
+
+article {
+    margin: 0;
+    padding: 25px 0;
+}
+
+
+.container {
+    background: #FFFFFFFF;
+    margin: 0 auto;
+    height: 8935px;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+h1, h2, p, figure {
+    margin: 0;
+}
+
+
+

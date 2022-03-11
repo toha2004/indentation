@@ -1,0 +1,21 @@
+.article1 {
+    padding-top: 60px;
+    padding-bottom: 25px;
+}
+
+
+.container__article1 {
+    width: 1080px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+
+.main__title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
